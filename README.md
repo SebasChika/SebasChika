@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.imgur.com/C5FOtIM.jpeg](https://photos.fife.usercontent.google.com/pw/AP1GczNnl17yBsPwuEh2LjxglfnjWZEqEpGxW1SnHMHoEx8Xn419SxlUnE54=w1229-h911-s-no-gm?authuser=0)"  />
+  <img height="300" src="https://photos.fife.usercontent.google.com/pw/AP1GczNnl17yBsPwuEh2LjxglfnjWZEqEpGxW1SnHMHoEx8Xn419SxlUnE54=w1229-h911-s-no-gm?authuser=0"  />
 </div>
 
 ###
