@@ -1,12 +1,14 @@
-<h1 align="left">
-  Hola, soy Sebastián Alejandro Chica Arias 👋<br>
-  Tengo 16 años 🌊 🌀 🌌
+<h1 align="center">
+   <img src="https://i.imgur.com/CccoLce.png" width="52" height="52"> Soy Sebastián Alejandro Chica Arias  <img src="https://i.imgur.com/CccoLce.png" width="52" height="52"><br>
+  <h2 align="center">🌊 🌀 🌌Tengo <sup>17</sup> años 🌊 🌀 🌌</h2>
+  
+  <kbd>This is me</kbd>
 </h1>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://i.imgur.com/vP4fr00.png" />
+  <img width="100%" height="300" src="https://i.imgur.com/GlWmYjr.png" />
 </div>
 
 ###
@@ -21,31 +23,22 @@ Me caracterizo por el compromiso, la disciplina y el aprendizaje continuo. Busco
 
 ###
 
-<h3 align="left">🌐 Mis redes:</h3>
+<h2 align="left">Un paso mas a conocerme: </h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sebastian-alejandro-chica-arias-b40392386" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/@SebasChika" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/sebaschika/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="mailto:sebastianalejandro8062@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/SebasChika" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo" />
-  </a>
+  <a href="https://www.linkedin.com/in/sebastian-alejandro-chica-arias-b40392386"><img src="https://i.imgur.com/d5x7GL1.png" width="52" height="52" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@SebasChika"><img src="https://i.imgur.com/1JO3Y4L.png" width="52" height="52" alt="YouTube"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sebaschika/"><img src="https://i.imgur.com/iGXDnXV.png" width="52" height="52" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sebastianalejandro8062@gmail.com"><img src="https://i.imgur.com/xgPZPQH.png" width="52" height="52" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/SebasChika"><img src="https://i.imgur.com/5fblw2Y.png" width="52" height="52" alt="HackerRank"></a>
 </div>
 
 ###
 
-<h3 align="left">💻 Lenguajes y tecnologías:</h3>
+
+<h2 align="left">Actualmente explorando:</h3>
 
 ###
 
