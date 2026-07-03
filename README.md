@@ -1,7 +1,3 @@
-<h1 align="center">
-  Soy Sebastián Alejandro Chica Arias
-</h1>
-
 <img width="100%" height="200" src="https://i.imgur.com/37Y9RmJ.png">
 
 ###
@@ -14,7 +10,7 @@
 ###
 
 <p align="left">
-Actualmente estoy cursando la Media Técnica en Desarrollo de Software. Me desempeño como Junior Software Developer, con enfoque en el desarrollo web y en la construcción de soluciones modernas, funcionales y escalables.<br><br>
+Soy Sebastian Chica, actualmente estoy cursando la Media Técnica en Desarrollo de Software. Me desempeño como Junior Software Developer, con enfoque en el desarrollo web y en la construcción de soluciones modernas, funcionales y escalables.<br><br>
 
 Mi objetivo es fortalecer una base técnica sólida en el área tecnológica, profundizar en buenas prácticas de programación y aplicar mis conocimientos en proyectos innovadores, bien estructurados y orientados a resultados.<br><br>
 
